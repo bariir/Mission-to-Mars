@@ -28,7 +28,7 @@ Robin wants to be a data scientist with NASA in the near future. In order for he
 ## Links to images:
 Featured Mars Image:![featured_mars_image.png](https://github.com/bariir/Mission-to-Mars/tree/main/Resources/featured_mars_image.png?raw=true)
 
-Mars Facts Table:![mars_facts_table.png](https://github.com/bariir/Mission-to-Mars/tree/main/Resources/Resources/mars_facts_table.png?raw=true)
+Mars Facts Table:![mars_facts_table.png](https://github.com/bariir/Mission-to-Mars/tree/main/Resources/mars_facts_table.png?raw=true)
 
 Mars Hemispheres Image:![mars_hemispheres_image.png](https://github.com/bariir/Mission-to-Mars/tree/main/Resources/mars_hemispheres_image.png?raw=true)
 
