@@ -32,7 +32,7 @@ Mars Facts Table:![mars_facts_table.png](https://github.com/bariir/Mission_to_Ma
 
 Mars Hemispheres Image:![mars_hemispheres_image.png](https://github.com/bariir/Mission_to_Mars/tree/main/Resources/mars_hemispheres_image.png?raw=true)
 
-Button with CSS Bold:![button_with_css_bold.png](https://github.com/bariir/Mission-to-Mars/blob/main/Resources/button_with_css_bold.png?raw=true)
+Button with CSS Bold:![button_with_css_bold.png](https://github.com/bariir/Mission-to-Mars/tree/main/Resources/button_with_css_bold.png?raw=true)
 
 
 
